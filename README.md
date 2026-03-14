@@ -172,9 +172,8 @@ def get_news(company_name):
 
 **Option C: Financial News APIs**
 
-- Alpha Vantage News (Free tier)
-- Finnhub News API
-- Polygon.io News
+- Finnhub Stock API 
+- News API
 
 ---
 
@@ -508,7 +507,7 @@ npm start
 
 ---
 
-## 🏆 Hackathon-Level Features Checklist
+##  Features 
 
 - [ ] Real-time stock data updates
 - [ ] AI predictions with confidence scores
